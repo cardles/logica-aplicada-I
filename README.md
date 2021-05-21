@@ -34,15 +34,15 @@ Espero que aproveitem e possam aprender junto comigo!
 
 | **Operadores** | **Descrição** |
 | --- | --- |
-| *Aritméticos* 
+| *Aritméticos* |
 | `+` | soma |
 | `-` | subtração |
 | `*` | multiplicação |
 | `/` | divisão |
 | `%` | resto da divisão |
-| *Atribuição* 
+| *Atribuição* |
 | `/=` | atribuição de divisão |
-| *Comparação* 
+| *Comparação* |
 | `===` | igual a valor e tipo |
 | `!=` | diferente de |
 | `>=` | maior ou igual a |
@@ -56,6 +56,7 @@ Ao final da aula, a professora *Simara* disponibilizou no repositório em quest�
 Antes de começar a codar, apliquei o **pensamento lógico em linguagem narrativa** para estruturar o meu código, para que ele fosse feito de forma mais rápida e precisa.  
 Os códigos aplicados estão disponíveis na pasta `js-files` deste repositório.
 
+<br>
 
 01 Solicite o preço de uma mercadoria e o percentual de desconto. Exiba no console o valor do desconto e o preço a pagar.
 
